@@ -1,0 +1,16 @@
+C:\Users\filip\source\repos\SOLIDDemo\SRPDemo\bin\Debug\net5.0\SRPDemo.exe
+C:\Users\filip\source\repos\SOLIDDemo\SRPDemo\bin\Debug\net5.0\SRPDemo.deps.json
+C:\Users\filip\source\repos\SOLIDDemo\SRPDemo\bin\Debug\net5.0\SRPDemo.runtimeconfig.json
+C:\Users\filip\source\repos\SOLIDDemo\SRPDemo\bin\Debug\net5.0\SRPDemo.runtimeconfig.dev.json
+C:\Users\filip\source\repos\SOLIDDemo\SRPDemo\bin\Debug\net5.0\SRPDemo.dll
+C:\Users\filip\source\repos\SOLIDDemo\SRPDemo\bin\Debug\net5.0\ref\SRPDemo.dll
+C:\Users\filip\source\repos\SOLIDDemo\SRPDemo\bin\Debug\net5.0\SRPDemo.pdb
+C:\Users\filip\source\repos\SOLIDDemo\SRPDemo\obj\Debug\net5.0\SRPDemo.csproj.AssemblyReference.cache
+C:\Users\filip\source\repos\SOLIDDemo\SRPDemo\obj\Debug\net5.0\SRPDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\source\repos\SOLIDDemo\SRPDemo\obj\Debug\net5.0\SRPDemo.AssemblyInfoInputs.cache
+C:\Users\filip\source\repos\SOLIDDemo\SRPDemo\obj\Debug\net5.0\SRPDemo.AssemblyInfo.cs
+C:\Users\filip\source\repos\SOLIDDemo\SRPDemo\obj\Debug\net5.0\SRPDemo.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\SOLIDDemo\SRPDemo\obj\Debug\net5.0\SRPDemo.dll
+C:\Users\filip\source\repos\SOLIDDemo\SRPDemo\obj\Debug\net5.0\ref\SRPDemo.dll
+C:\Users\filip\source\repos\SOLIDDemo\SRPDemo\obj\Debug\net5.0\SRPDemo.pdb
+C:\Users\filip\source\repos\SOLIDDemo\SRPDemo\obj\Debug\net5.0\SRPDemo.genruntimeconfig.cache

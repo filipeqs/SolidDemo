@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SRPDemo", "SRPDemo\SRPDemo.csproj", "{A6FC3D29-21C9-4077-86FA-298A5DD1E8A2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OCPDemo", "OCPDemo\OCPDemo.csproj", "{FBF4BBA6-1008-49A5-8F0B-8CB2C28ECC96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSPDemo", "LSPDemo\LSPDemo.csproj", "{CF423F6E-28CB-4CC6-A10E-B5AEAC8A21A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6FC3D29-21C9-4077-86FA-298A5DD1E8A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6FC3D29-21C9-4077-86FA-298A5DD1E8A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6FC3D29-21C9-4077-86FA-298A5DD1E8A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6FC3D29-21C9-4077-86FA-298A5DD1E8A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBF4BBA6-1008-49A5-8F0B-8CB2C28ECC96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF4BBA6-1008-49A5-8F0B-8CB2C28ECC96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF4BBA6-1008-49A5-8F0B-8CB2C28ECC96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF4BBA6-1008-49A5-8F0B-8CB2C28ECC96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF423F6E-28CB-4CC6-A10E-B5AEAC8A21A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF423F6E-28CB-4CC6-A10E-B5AEAC8A21A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF423F6E-28CB-4CC6-A10E-B5AEAC8A21A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF423F6E-28CB-4CC6-A10E-B5AEAC8A21A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C99BFD03-2E48-4AF3-9F4A-FEDAA8CBE10F}
+	EndGlobalSection
+EndGlobal

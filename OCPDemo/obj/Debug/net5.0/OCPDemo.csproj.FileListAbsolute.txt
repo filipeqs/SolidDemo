@@ -1,0 +1,16 @@
+C:\Users\filip\source\repos\SOLIDDemo\OCPDemo\bin\Debug\net5.0\OCPDemo.exe
+C:\Users\filip\source\repos\SOLIDDemo\OCPDemo\bin\Debug\net5.0\OCPDemo.deps.json
+C:\Users\filip\source\repos\SOLIDDemo\OCPDemo\bin\Debug\net5.0\OCPDemo.runtimeconfig.json
+C:\Users\filip\source\repos\SOLIDDemo\OCPDemo\bin\Debug\net5.0\OCPDemo.runtimeconfig.dev.json
+C:\Users\filip\source\repos\SOLIDDemo\OCPDemo\bin\Debug\net5.0\OCPDemo.dll
+C:\Users\filip\source\repos\SOLIDDemo\OCPDemo\bin\Debug\net5.0\ref\OCPDemo.dll
+C:\Users\filip\source\repos\SOLIDDemo\OCPDemo\bin\Debug\net5.0\OCPDemo.pdb
+C:\Users\filip\source\repos\SOLIDDemo\OCPDemo\obj\Debug\net5.0\OCPDemo.csproj.AssemblyReference.cache
+C:\Users\filip\source\repos\SOLIDDemo\OCPDemo\obj\Debug\net5.0\OCPDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\source\repos\SOLIDDemo\OCPDemo\obj\Debug\net5.0\OCPDemo.AssemblyInfoInputs.cache
+C:\Users\filip\source\repos\SOLIDDemo\OCPDemo\obj\Debug\net5.0\OCPDemo.AssemblyInfo.cs
+C:\Users\filip\source\repos\SOLIDDemo\OCPDemo\obj\Debug\net5.0\OCPDemo.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\SOLIDDemo\OCPDemo\obj\Debug\net5.0\OCPDemo.dll
+C:\Users\filip\source\repos\SOLIDDemo\OCPDemo\obj\Debug\net5.0\ref\OCPDemo.dll
+C:\Users\filip\source\repos\SOLIDDemo\OCPDemo\obj\Debug\net5.0\OCPDemo.pdb
+C:\Users\filip\source\repos\SOLIDDemo\OCPDemo\obj\Debug\net5.0\OCPDemo.genruntimeconfig.cache

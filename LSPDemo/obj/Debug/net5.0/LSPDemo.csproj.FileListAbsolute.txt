@@ -1,0 +1,16 @@
+C:\Users\filip\source\repos\SOLIDDemo\LSPDemo\bin\Debug\net5.0\LSPDemo.exe
+C:\Users\filip\source\repos\SOLIDDemo\LSPDemo\bin\Debug\net5.0\LSPDemo.deps.json
+C:\Users\filip\source\repos\SOLIDDemo\LSPDemo\bin\Debug\net5.0\LSPDemo.runtimeconfig.json
+C:\Users\filip\source\repos\SOLIDDemo\LSPDemo\bin\Debug\net5.0\LSPDemo.runtimeconfig.dev.json
+C:\Users\filip\source\repos\SOLIDDemo\LSPDemo\bin\Debug\net5.0\LSPDemo.dll
+C:\Users\filip\source\repos\SOLIDDemo\LSPDemo\bin\Debug\net5.0\ref\LSPDemo.dll
+C:\Users\filip\source\repos\SOLIDDemo\LSPDemo\bin\Debug\net5.0\LSPDemo.pdb
+C:\Users\filip\source\repos\SOLIDDemo\LSPDemo\obj\Debug\net5.0\LSPDemo.csproj.AssemblyReference.cache
+C:\Users\filip\source\repos\SOLIDDemo\LSPDemo\obj\Debug\net5.0\LSPDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\source\repos\SOLIDDemo\LSPDemo\obj\Debug\net5.0\LSPDemo.AssemblyInfoInputs.cache
+C:\Users\filip\source\repos\SOLIDDemo\LSPDemo\obj\Debug\net5.0\LSPDemo.AssemblyInfo.cs
+C:\Users\filip\source\repos\SOLIDDemo\LSPDemo\obj\Debug\net5.0\LSPDemo.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\SOLIDDemo\LSPDemo\obj\Debug\net5.0\LSPDemo.dll
+C:\Users\filip\source\repos\SOLIDDemo\LSPDemo\obj\Debug\net5.0\ref\LSPDemo.dll
+C:\Users\filip\source\repos\SOLIDDemo\LSPDemo\obj\Debug\net5.0\LSPDemo.pdb
+C:\Users\filip\source\repos\SOLIDDemo\LSPDemo\obj\Debug\net5.0\LSPDemo.genruntimeconfig.cache
