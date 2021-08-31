@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OCPDemo", "OCPDemo\OCPDemo.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSPDemo", "LSPDemo\LSPDemo.csproj", "{CF423F6E-28CB-4CC6-A10E-B5AEAC8A21A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISPDemo", "ISPDemo\ISPDemo.csproj", "{743CFF5A-6EB9-4A4F-93CD-2A20315DC1AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{CF423F6E-28CB-4CC6-A10E-B5AEAC8A21A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF423F6E-28CB-4CC6-A10E-B5AEAC8A21A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF423F6E-28CB-4CC6-A10E-B5AEAC8A21A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{743CFF5A-6EB9-4A4F-93CD-2A20315DC1AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{743CFF5A-6EB9-4A4F-93CD-2A20315DC1AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{743CFF5A-6EB9-4A4F-93CD-2A20315DC1AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{743CFF5A-6EB9-4A4F-93CD-2A20315DC1AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

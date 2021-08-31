@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{743CFF5A-6EB9-4A4F-93CD-2A20315DC1AD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ISPDemo/Program.cs">
+    <Files>
+      <File FileName="ISPDemo/Program.cs" Line="9" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SOLIDDemo" expanded="True">
+            <Node name="ISPDemo" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SRPDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ISPDemo PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

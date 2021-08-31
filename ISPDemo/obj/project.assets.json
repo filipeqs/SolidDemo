@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/filipeqs/Documents/Projects/git/SolidDemo/LSPDemo/LSPDemo.csproj",
-      "projectName": "LSPDemo",
-      "projectPath": "/Users/filipeqs/Documents/Projects/git/SolidDemo/LSPDemo/LSPDemo.csproj",
+      "projectUniqueName": "/Users/filipeqs/Documents/Projects/git/SolidDemo/ISPDemo/ISPDemo.csproj",
+      "projectName": "ISPDemo",
+      "projectPath": "/Users/filipeqs/Documents/Projects/git/SolidDemo/ISPDemo/ISPDemo.csproj",
       "packagesPath": "/Users/filipeqs/.nuget/packages/",
-      "outputPath": "/Users/filipeqs/Documents/Projects/git/SolidDemo/LSPDemo/obj/",
+      "outputPath": "/Users/filipeqs/Documents/Projects/git/SolidDemo/ISPDemo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/filipeqs/.config/NuGet/NuGet.Config"
