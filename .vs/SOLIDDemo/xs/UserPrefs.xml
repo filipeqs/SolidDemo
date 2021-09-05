@@ -1,14 +1,21 @@
-﻿<Properties StartupConfiguration="{743CFF5A-6EB9-4A4F-93CD-2A20315DC1AD}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ISPDemo/Program.cs">
+﻿<Properties StartupConfiguration="{4C48A190-A7E9-4AF2-AB18-A74F5E84A5E7}|Default">
+  <MonoDevelop.Ide.ItemProperties.DIPDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DIPDemo/IEmailer.cs">
     <Files>
-      <File FileName="ISPDemo/Program.cs" Line="9" Column="29" />
+      <File FileName="DIPDemo/Program.cs" Line="15" Column="50" />
+      <File FileName="DIPDemo/Chore.cs" Line="31" Column="28" />
+      <File FileName="DIPDemo/Logger.cs" Line="4" Column="20" />
+      <File FileName="DIPDemo/Emailer.cs" Line="6" Column="32" />
+      <File FileName="DIPDemo/Person.cs" Line="4" Column="20" />
+      <File FileName="DIPDemo/Factory.cs" Line="13" Column="67" />
+      <File FileName="DIPDemo/IEmailer.cs" Line="7" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SOLIDDemo" expanded="True">
-            <Node name="ISPDemo" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="DIPDemo" expanded="True">
+              <Node name="IEmailer.cs" selected="True" />
             </Node>
           </Node>
         </State>
